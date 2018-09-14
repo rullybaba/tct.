@@ -1,4 +1,4 @@
-Cloud Computing
+<h1>Cloud Computing</h1>
 Cloud computing atau komputasi awan adalah penggabungan teknologi komputerisasi dan internet, dimana data mulai dari skala kecil hingga besar tersimpan di server internet, yang memungkinkan kita dapat mengakses data kita dari berbagai lokasi dan melalui berbagai platform. SaaS merupakan salah satu dari tiga jenis layanan Cloud Computing yang umum ditawarkan oleh penyedia layanan Cloud. Tiga jenis layanan itu adalah SaaS (Software as a Service), PaaS (Platform as a Service), IaaS (Infrastructure as a Service). 
 
 -Infrastructure as a Service (IaaS)
