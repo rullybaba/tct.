@@ -12,7 +12,7 @@ Infrastructure as a Service adalah layanan komputasi awan yang menyediakan infra
 <h1>Platform as a Service (PaaS)</h1>
 Platform as a Service adalah layanan yang menyediakan computing platform. Biasanya sudah terdapat sistem operasi, database, web server dan framework aplikasi agar dapat menjalankan aplikasi yang telah dibuat. Perusahaan yang menyediakan layanan tersebutlah yang bertanggung jawab dalam pemeliharaan computing platform ini. Keuntungan layanan PaaS ini bagi pengembang adalah mereka bisa fokus pada aplikasi yang mereka buat tanpamemikirkan tentang pemeliharaan dari computing platform.
 
-<h1>Contoh perangkat lunak Paas<h1>
+<h1>Contoh perangkat lunak Paas</h1>
 <br>*Amazon Web Service
 <br>*Windows Azure
 <br>*Google App Engine
@@ -25,6 +25,6 @@ Software as a Service adalah layanan komputasi awan dimana kita bisa langsung me
 <br>*Mega
 <br>*Dropbox
 
-Kelemahan/kerugian penggunaan Cloud Computing
+<h1>Kelemahan/kerugian penggunaan Cloud Computing</h1>
 Secar umum kelemahan/kerugian penggunaan Cloud Computing adalah pengguna harus terhubung ke Internet serta kerahasiaan dan keamanan data yang kita letakkan di Cloud tersebut.
 
